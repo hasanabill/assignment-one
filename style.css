@@ -1,0 +1,96 @@
+body{
+    margin: 0;
+    background-color: rgb(212, 208, 204);
+    font-family: 'Roboto', sans-serif;
+}
+.flexi{
+    display: flex;
+    margin-bottom: 200px;
+}
+.half-space{
+    width: 50%;
+    padding-left: 100px;
+    padding-top: 50px;
+}
+.opening-top{
+    padding-top: 150px;
+}
+.para{
+    margin-bottom: 50px;
+    font-size: 20px;
+}
+.blue-text{
+    color: rgb(61, 120, 160);
+}
+#scroll{
+    padding-top: 100px;
+    font-size: 20px;
+}
+.profile{
+    width: 60%;
+}
+.explore-img{
+    width: 75%;
+    padding-left: 60px;
+}
+.explore-heading{
+    font-size: 50px;
+}
+.opening{
+    border-left: 6px solid crimson;
+    padding-left: 15px;
+    font-family: 'Comfortaa', cursive;
+    font-size: 50px;
+}
+.button{
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(241, 239, 228);
+    background-color: rgb(102, 148, 177);
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.top-padding{
+    padding-top: 70px;
+    padding-right: 50px;
+}
+.three-slides{
+    width: 33%;
+    padding: 20px 60px;
+    margin-left: 40px;
+    margin-right: 40px;
+    border-radius: 25px;
+    box-shadow: 10px 10px 50px rgba(0, 0, 0, 0.651);
+}
+.slide-1{
+    background-color: rgb(247, 231, 230);
+    
+}
+.slide-2{
+    background-color: rgb(223, 217, 240);
+}
+.slide-3{
+    background-color: rgb(214, 221, 235);
+}
+.three-il{
+    width: 40%;
+}
+.mission-mid{
+    text-align: center;
+    font-size: 50px;
+}
+footer{
+    background-color: rgb(66, 65, 65);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+footer h2{
+    font-size: 30px;
+    color: rgb(243, 243, 233);
+    font-family: 'Comfortaa', cursive;
+}
+footer p{
+    font-size: 17px;
+    color: rgb(233, 237, 243);   
+}
