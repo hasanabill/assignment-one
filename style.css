@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    background-color: rgb(212, 208, 204);
+    background-color: rgb(243, 238, 230);
     font-family: 'Roboto', sans-serif;
 }
 .flexi{
@@ -20,7 +20,7 @@ body{
     font-size: 20px;
 }
 .blue-text{
-    color: rgb(61, 120, 160);
+    color: rgb(92, 159, 221);
 }
 #scroll{
     padding-top: 100px;
@@ -28,6 +28,7 @@ body{
 }
 .profile{
     width: 60%;
+    padding-top: 50px;
 }
 .explore-img{
     width: 75%;
@@ -46,7 +47,7 @@ body{
     text-decoration: none;
     font-size: 20px;
     color: rgb(241, 239, 228);
-    background-color: rgb(102, 148, 177);
+    background-color: rgb(74, 149, 199);
     padding: 10px 20px;
     border-radius: 10px;
 }
@@ -63,11 +64,11 @@ body{
     box-shadow: 10px 10px 50px rgba(0, 0, 0, 0.651);
 }
 .slide-1{
-    background-color: rgb(247, 231, 230);
+    background-color: rgb(250, 239, 237);
     
 }
 .slide-2{
-    background-color: rgb(223, 217, 240);
+    background-color: rgb(234, 228, 252);
 }
 .slide-3{
     background-color: rgb(214, 221, 235);
@@ -93,4 +94,16 @@ footer h2{
 footer p{
     font-size: 17px;
     color: rgb(233, 237, 243);   
+}
+.bg-1{
+    background-image: url(images/shapes/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 38%;
+}
+.bg-2{
+    background-image: url(images/shapes/bg-2.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 40%;
 }
